@@ -10,5 +10,34 @@
     border-radius: 5px;
     flex:auto;
     text-align-last: center;
-    ;
+}
+.asignatura{
+    font-weight: bold;
+}
+.aprobado{
+    font-weight: bold;
+    color:rgb(37, 219, 1);
+}
+.suspendido{
+    font-weight: bold;
+    color:rgb(202, 0, 0)
+}
+.aside{
+    position: relative;
+    flex: auto;
+    float: right;
+    margin: top -40px;
+    width: fit-content ;
+}
+.section{
+    position: relative;
+    flex:auto;
+    float:left;
+    margin-top: auto;
+
+}
+.center{
+    text-align: center;
+    flex:auto;
+    
 }
