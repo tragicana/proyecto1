@@ -28,6 +28,7 @@
     float: right;
     margin: top -40px;
     width: fit-content ;
+    padding-right: 40px;
 }
 .section{
     position: relative;
@@ -40,4 +41,19 @@
     text-align: center;
     flex:auto;
     
+}
+.section-2{
+    position: relative;
+    flex:auto;
+    float: left;
+    margin-top:auto;
+    padding: 40px;
+
+}
+.padding{
+    padding: 40px;
+}
+
+.xxx{
+    background-color: rgb(148, 198, 255);
 }
